@@ -46,6 +46,9 @@ p {
   margin-top: 10px;
 }
 
+.copyright {
+  color: #fff;
+}
 
 .btn {
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
@@ -62,9 +65,23 @@ p {
   text-decoration: none;
 }
 
+.content .copy {
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  width: 90%;
+  margin: 0 auto;
+  font-size: 24px;
+  padding: 15px;
+  margin-bottom: 50px;
+  color: #fff;
+  border-radius: 20px;
+}
 
-
-
+.content h1 {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-size: 50px;
+  border-bottom: 1px solid grey;
+}
 
 
 

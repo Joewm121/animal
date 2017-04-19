@@ -8,6 +8,12 @@
   <body>
     <div class="content">
       <h1>Welcome to Aardvarkian Paradise!</h1>
+      <p class="copy">
+        Welcome to Aardvarkian Paradise, where you can do your part for the aardvarkian community members and adopt a new friend today!
+      </p>
+      <p>
+        Meet our furry friends below and meet your new friend!
+      </p>
       <div class="container group">
         <div class="card">
           <img src="img/aardvark1.jpg" alt="an aardvark" />
@@ -48,8 +54,19 @@
 
       </div>
     </div>
-    <script type="text/javascript" src="js/script.js">
 
+    <span class="copyright">&copy; 2017, The Aardvarkian Paradise, L.L.C. M.D.</span>
+
+
+
+
+    <script type="text/javascript">
+      var x = document.getElementsByClassName('btn');
+      for (var i = 0; i < x.length; i++) {
+        x[i].addEventListener("click", function () {
+          alert('Thanks for adopting!');
+        });
+      }
     </script>
   </body>
 </html>
