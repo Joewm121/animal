@@ -12,9 +12,6 @@
 
 *  Clone the project
 *  Open index.html in your preferred browser
-*  in a simple
-*  easy-to-understand
-*  format
 
  Be sure to resize your viewport to see the media queries in action.
 
