@@ -1,6 +1,6 @@
 # Aardvarkian Paradise
 
-####  Aardvark adopting page}, {4/19/17
+####  Aardvark adopting page, 4/19/17
 
 #### By  Joe Werderber and Jared Eiseman
 
@@ -34,4 +34,4 @@
 
 MIT
 
-Copyright (c) 2017 ** Joe Werderber, Jared Eiseman **
+Copyright (c) 2017 Joe Werderber, Jared Eiseman
