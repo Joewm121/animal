@@ -1,37 +1,37 @@
-# _{Aardvarkian Paradise}_
+# Aardvarkian Paradise
 
-#### _{Aardvark adopting page}, {4/19/17}_
+####  Aardvark adopting page}, {4/19/17
 
-#### By _**{Joe Werderber and Jared Eiseman}**_
+#### By  Joe Werderber and Jared Eiseman
 
 ## Description
 
-_{This page was created as an exercise in using CSS and HTML. More specifically, practice in the usage of divs, floats, media queries, and general styling. It is a simulated landing page for an Aardvark adoption agency.}_
+ This page was created as an exercise in using CSS and HTML. More specifically, practice in the usage of divs, floats, media queries, and general styling. It is a simulated landing page for an Aardvark adoption agency.
 
 ## Setup/Installation Requirements
 
-* _Clone the project_
-* _Open index.html in your preferred browser_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+*  Clone the project
+*  Open index.html in your preferred browser
+*  in a simple
+*  easy-to-understand
+*  format
 
-_{Be sure to resize your viewport to see the media queries in action.}_
+ Be sure to resize your viewport to see the media queries in action.
 
 ## Known Bugs
 
-_{There are no known bugs at this time.}_
+ There are no known bugs at this time.
 
 ## Support and contact details
 
-_{Report any bugs or questions to either Joe Werderber (greendog22@gmail.com) or Jared Eiseman (jathei@gmail.com)}_
+ Report any bugs or questions to either Joe Werderber (greendog22@gmail.com) or Jared Eiseman (jathei@gmail.com)
 
 ## Technologies Used
 
-_{HTML, CSS, JavaScript}_
+ HTML, CSS, JavaScript
 
 ### License
 
-*{MIT}*
+MIT
 
-Copyright (c) 2017 **_{Joe Werderber, Jared Eiseman}_**
+Copyright (c) 2017 ** Joe Werderber, Jared Eiseman **
