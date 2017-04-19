@@ -37,13 +37,19 @@ body {
   padding: 0;
   box-shadow: 0 0 3px black;
 }
+
 h3 {
   border-bottom: 1px solid grey;
   margin-bottom: 0;
   padding-bottom: 4px;
 }
+
 p {
   margin-top: 10px;
+}
+
+.content .callout {
+  font-size: 24px;
 }
 
 .copyright {
@@ -96,16 +102,20 @@ p {
     border: none;
     box-shadow: none;
   }
+
   body {
     background-color: #fff;
   }
+
   .content h1 {
     font-size: 20px;
     line-height: 40px;
   }
+
   .copyright {
     color: #000;
   }
+
   .card {
     margin: 0;
     width: 100%;
@@ -121,8 +131,12 @@ p {
     margin-right: 10px;
   }
 
-  p {
+  p  {
     font-size: 14px;
+  }
+
+  .content .callout {
+    font-size: 24px;
   }
 
   .card:hover {
@@ -132,5 +146,25 @@ p {
   .btn {
     padding: 7px 15px 7px 15px;
     font-size: 15px;
+  }
+
+  h3{
+    border: none;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .card img {
+    float: none;
+    width: 100%;
+  }
+
+  p {
+    font-size: 17px;
+  }
+
+  .btn {
+    font-size: 30px;
+    padding: 10px 30px;
   }
 }
