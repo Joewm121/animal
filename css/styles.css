@@ -83,17 +83,54 @@ p {
   border-bottom: 1px solid grey;
 }
 
-
-
-
-
-
-
-
-
-
 .group:after {
   content: "";
   display: table;
   clear: both;
+}
+
+
+@media screen and (max-width: 768px) {
+  .content {
+    width: 100%;
+    border: none;
+    box-shadow: none;
+  }
+  body {
+    background-color: #fff;
+  }
+  .content h1 {
+    font-size: 20px;
+    line-height: 40px;
+  }
+  .copyright {
+    color: #000;
+  }
+  .card {
+    margin: 0;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    border-bottom: 1px solid grey;
+  }
+
+  .card img {
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  .card:hover {
+    box-shadow: none;
+  }
+
+  .btn {
+    padding: 7px 15px 7px 15px;
+    font-size: 15px;
+  }
 }
